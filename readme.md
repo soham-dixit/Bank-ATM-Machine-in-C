@@ -1,1 +1,1 @@
-Info about the project will be added later.
+A C program for Bank ATM Machine to understand the basic concepts of C language to beginners.
